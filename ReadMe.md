@@ -5,18 +5,13 @@
 
 ## Naudojimas
 
-### 1. Kompiliavimas
-Norėdami sukompiliuoti programą, naudokite šią komandą:
-```
-gcc -o triangular_n_queen main.c Queen.c -Wall -Wextra
-```
+
 
 ### 2. Paleidimas
 Programa gali būti paleidžiama su numatytuoju arba nurodytu failo pavadinimu:
 ```
-./triangular_n_queen [failo_pavadinimas]
+Go.cmd
 ```
-Jei failo pavadinimas nėra nurodytas, bus naudojamas numatytasis `duomenys.txt`.
 
 ### 3. Duomenų formatas
 Įvesties failas turėtų turėti vieną ar daugiau eilučių su sveikaisiais skaičiais, kurie žymi N reikšmę (trikampio dydį). Pavyzdys:
@@ -57,6 +52,4 @@ Q . .
 - Jei įvesties failas nerandamas, programa parodys klaidą.
 - Jei įvesties duomenys yra netinkami, gali būti rodomi įspėjimai arba klaidos pranešimai.
 
-## Autorius
-Sukūrė: [Jūsų vardas]
 
