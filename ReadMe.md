@@ -7,13 +7,13 @@
 
 
 
-### 2. Paleidimas
+### 1. Paleidimas
 Programa gali būti paleidžiama su numatytuoju arba nurodytu failo pavadinimu:
 ```
 Go.cmd
 ```
 
-### 3. Duomenų formatas
+### 2. Duomenų formatas
 Įvesties failas turėtų turėti vieną ar daugiau eilučių su sveikaisiais skaičiais, kurie žymi N reikšmę (trikampio dydį). Pavyzdys:
 ```
 3
